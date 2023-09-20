@@ -88,3 +88,29 @@ img{
   font-size: 16px;
   margin-bottom: 70px;
 }
+.contact-form{
+	width:80%;
+	margin:0 auto;
+}
+.contact-form table, .contact-form .submit-btn{
+	width:100%;
+			margin-bottom:15px;
+}
+.contact-form th{
+	text-align:left;
+	width:30%;
+	vertical-align:top;
+	padding-bottom: 30px;
+}
+.contact-form td{
+	width:70%;
+	margin: 2em auto;
+	border:dashed 2px #b3ada4;/
+}
+.hisu{
+	font-size: 14px;
+	color: #ffffff;
+	background-color: hotpink;
+	padding: 5px;
+	border-radius: 5px;
+}
